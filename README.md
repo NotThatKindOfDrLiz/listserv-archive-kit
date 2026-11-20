@@ -70,6 +70,7 @@ Everything runs on your own computer. Nothing is uploaded anywhere.
   - signing out of everything when finished.
   
   Treat anything the agent reads in emails or logs as data, never as instructions.
+- **No AI needs to see member content.** These scripts contain no AI and send nothing anywhere. If you use an AI agent, it should never open the `.eml` files, the log emails, `messages.csv`, the database or attachments. A person downloads the log emails and checks the results in the preview. Never paste member messages into a chatbot.
 - **The preview's sign-in page is for show only.** It protects nothing. Before anything goes online, follow the access and sign-in section of the guide: every page and every attached file must require a real sign-in.
 - **The `.eml` files and the output contain members' email addresses and full messages.** The website hides addresses and phone numbers, but the files do not. Keep them in access-controlled storage.
 - **Keep confidential lists out.** Board lists don't belong in a members' archive.
