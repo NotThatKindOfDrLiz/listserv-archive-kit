@@ -1,0 +1,12 @@
+# Never commit member data: raw logs, built archives, attachments.
+*.eml
+*.sqlite
+*.sqlite-*
+*.csv
+lists/
+output/
+attachments/
+report.md
+.venv/
+__pycache__/
+.DS_Store
