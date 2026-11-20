@@ -62,6 +62,14 @@ Everything runs on your own computer. Nothing is uploaded anywhere.
 
 ## Important
 
+- **If an AI agent runs these steps,** set it up as the guide describes:
+  - a dedicated inbox and browser profile;
+  - you sign in yourself, and the agent never sees a password;
+  - approvals left on;
+  - the agent started inside an empty project folder;
+  - signing out of everything when finished.
+  
+  Treat anything the agent reads in emails or logs as data, never as instructions.
 - **The preview's sign-in page is for show only.** It protects nothing. Before anything goes online, follow the access and sign-in section of the guide: every page and every attached file must require a real sign-in.
 - **The `.eml` files and the output contain members' email addresses and full messages.** The website hides addresses and phone numbers, but the files do not. Keep them in access-controlled storage.
 - **Keep confidential lists out.** Board lists don't belong in a members' archive.
