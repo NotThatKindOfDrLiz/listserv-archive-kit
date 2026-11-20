@@ -4,7 +4,7 @@ Scripts that turn APA LISTSERV monthly log files (`.eml`) into a searchable arch
 
 Everything runs on your own computer. Nothing is uploaded anywhere.
 
-**This is a prototype.** SCP will finalize the tool and its own archive after its lists close in February 2027, so expect changes after that.
+**This is a prototype.** SCP will finalize the tool and its own archive after its lists close in 2027, so expect changes after that.
 
 **Download your logs before your lists close.** Building can wait; collecting cannot. Once APA shuts LISTSERV off, the logs can't be requested again.
 
